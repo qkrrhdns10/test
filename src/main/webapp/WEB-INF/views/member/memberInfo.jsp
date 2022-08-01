@@ -32,7 +32,7 @@
 				<td><%=dto.getPw()%></td>    
 			</tr>                           
 			<tr>                            
-				<td>이름</td>               
+				<td>이름ㅇㅇㅇㅇ</td>               
 				<td><%=dto.getName()%></td>  
 			</tr>                           
 			<tr>                            
