@@ -44,7 +44,7 @@
 				<td><input type='text' name='email' value="<%=dto.getEmail()%>"></td>        
 			</tr>                                
 			<tr>                                 
-				<td>전화번호</td>                
+				<td>전화번호ㅇㅇㅇ</td>                
 				<td><input type='text' name='tel' value="<%=dto.getTel()%>"></td>        
 			</tr>                                             
 			<tr>                                              
