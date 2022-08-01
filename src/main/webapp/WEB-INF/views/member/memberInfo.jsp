@@ -36,7 +36,7 @@
 				<td><%=dto.getName()%></td>  
 			</tr>                           
 			<tr>                            
-				<td>나이</td>               
+				<td>나이ㅇㅇㅇ</td>               
 				<td><input type='text' name='age' value="<%=dto.getAge()%>"></td>          
 			</tr>                                         
 			<tr>                                          
