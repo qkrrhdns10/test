@@ -40,7 +40,7 @@
 				<td><input type='text' name='age' value="<%=dto.getAge()%>"></td>          
 			</tr>                                         
 			<tr>                                          
-				<td>이메일</td>                           
+				<td>이메일ㅇㅇㅇ</td>                           
 				<td><input type='text' name='email' value="<%=dto.getEmail()%>"></td>        
 			</tr>                                
 			<tr>                                 
